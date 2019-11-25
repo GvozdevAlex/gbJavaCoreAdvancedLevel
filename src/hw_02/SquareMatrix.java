@@ -1,5 +1,6 @@
 package hw_02;
 
+
 public class SquareMatrix {
     private int _size = 4;
     private int[][] _matrix;
