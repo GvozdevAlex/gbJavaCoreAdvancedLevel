@@ -19,6 +19,7 @@ public class Main {
                 ,{"3","35","9","9"}
                 ,{"4","36","10","12"}
         };
+
         System.out.println("Правильный вариант");
         try {
             SquareMatrix test1 = new SquareMatrix(myMantix1);

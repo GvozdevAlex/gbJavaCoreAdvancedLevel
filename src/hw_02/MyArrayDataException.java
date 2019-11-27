@@ -1,5 +1,6 @@
 package hw_02;
 
+
 public class MyArrayDataException extends NumberFormatException{
     private int _row;
     private int _column;
